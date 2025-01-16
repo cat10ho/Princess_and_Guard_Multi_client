@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Princess
+  - Knight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1891894363
+    locked: 0
+  - name: Floorground
+    uniqueID: 1960669595
+    locked: 0
+  - name: Backwallground
+    uniqueID: 4199873495
+    locked: 0
+  - name: character
+    uniqueID: 851988589
+    locked: 0
+  - name: frontwallground
+    uniqueID: 821534107
+    locked: 0
